@@ -2,7 +2,8 @@
 
 다음의 사이트를 참고하여 공부하고 있습니다. 
 
-https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+원본은 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+원저자 : Daniel Van Flymen , https://twitter.com/van_flymen
 
 Python3 으로 만든 블록체인 기본
 

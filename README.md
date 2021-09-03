@@ -1,5 +1,9 @@
 # myson
 
+다음의 사이트를 참고하여 공부하고 있습니다. 
+
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
 Python3 으로 만든 블록체인 기본
 
 블록생성 하는 기본입니다.
